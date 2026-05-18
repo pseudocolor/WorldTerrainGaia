@@ -179,25 +179,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   shadows:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   midtones:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   highlights:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   shadowsStart:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   shadowsEnd:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0.3
   highlightsStart:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0.55
   highlightsEnd:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
 --- !u!114 &-6606769154259874526
 MonoBehaviour:
@@ -263,13 +263,13 @@ MonoBehaviour:
   active: 1
   rotation:
     m_OverrideState: 1
-    m_Value: 241
+    m_Value: 216
   skyIntensityMode:
     m_OverrideState: 1
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: 15.8
+    m_Value: 15
   multiplier:
     m_OverrideState: 1
     m_Value: 1
@@ -434,10 +434,10 @@ MonoBehaviour:
   active: 1
   postExposure:
     m_OverrideState: 1
-    m_Value: 0.46
+    m_Value: 0
   contrast:
     m_OverrideState: 1
-    m_Value: 21
+    m_Value: 16
   colorFilter:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -446,7 +446,7 @@ MonoBehaviour:
     m_Value: 0
   saturation:
     m_OverrideState: 1
-    m_Value: -16
+    m_Value: -6
 --- !u!114 &-4151792930034644520
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -477,7 +477,7 @@ MonoBehaviour:
     m_Value: {r: 0.8915094, g: 0.91674864, b: 1, a: 1}
   maxFogDistance:
     m_OverrideState: 1
-    m_Value: 150
+    m_Value: 1000
   mipFogMaxMip:
     m_OverrideState: 1
     m_Value: 0.5
@@ -489,13 +489,13 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 33.3
+    m_Value: 31.6
   maximumHeight:
     m_OverrideState: 1
     m_Value: 455
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 261.8
+    m_Value: 399.9
   enableVolumetricFog:
     m_OverrideState: 0
     m_Value: 1
@@ -1223,8 +1223,8 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: -10
   tint:
-    m_OverrideState: 0
-    m_Value: 5
+    m_OverrideState: 1
+    m_Value: 9
 --- !u!114 &7642060734654139733
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1249,7 +1249,7 @@ MonoBehaviour:
     m_Value: 1
   fixedExposure:
     m_OverrideState: 1
-    m_Value: 14.819869
+    m_Value: 14.058139
   compensation:
     m_OverrideState: 0
     m_Value: 0
