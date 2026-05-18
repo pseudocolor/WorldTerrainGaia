@@ -40,6 +40,78 @@ MonoBehaviour:
     isWorldmap: 1
     recalculate: 0
     min: 0
-    max: 56.111115
-  m_bakedMaskCacheEntries: []
+    max: 0
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20260513 - 205034_LayerGameObject_3584_12
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_12
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerTree_3584_5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_3584_5
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerGameObject_3584_2.5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_2.5
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_2.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerGameObject_3584_-0.5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_-0.5
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_-0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerGameObject_1536_2
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_1536_2
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_1536_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerGameObject_3584_2
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_2
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerTree_3584_-0.2
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_3584_-0.2
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_3584_-0.2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerTree_3584_1
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_3584_1
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_3584_1
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerGameObject_3584_1.5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_1.5
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_1.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerGameObject_3584_0.5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_0.5
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerGameObject_3584_0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerTree_1024_0
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_1024_0
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_1024_0
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20260513 - 205034_LayerTree_2048_0
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_2048_0
+    fullPath: D:/Virtu Unity/Gaia 6/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20260513
+      - 205034/Terrain_0_0-20260513 - 205034_LayerTree_2048_0
+    texture: {fileID: 0}
   m_worldBiomeMaskSettings: {fileID: 0}

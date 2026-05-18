@@ -85,3 +85,9 @@ MonoBehaviour:
     m_minorVersion: 2
     m_patchVersion: 2
     m_installTimeStamp: 1778680146126
+  - m_packageID: BOTD
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 2
+    m_patchVersion: 2
+    m_installTimeStamp: 1779092918549
